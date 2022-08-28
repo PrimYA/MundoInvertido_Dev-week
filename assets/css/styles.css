@@ -294,7 +294,7 @@ textarea:focus-visible {
   #section-stranger-things-gallery .gallery-image {
     width: 250px;
     height: 250px;
-    outline: 20px solid var(--highlight-color);
+    outline: 5px solid var(--highlight-color);
     border: 3px solid var(--primary-color);
     box-sizing: initial;
   }
