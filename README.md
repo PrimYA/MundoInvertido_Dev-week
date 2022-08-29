@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="400" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
+    <img width="400" src="https://github.com/PrimYA/MundoInvertido_Dev-week/blob/main/assets/images/banner/logo.svg">
 </p>
 
 __________
@@ -9,7 +9,7 @@ __________
 Foi criada uma página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase.
 
 <p align="center">
-    <img width="650" src="C:\Users\mi-sb\Documents\LiveCoding\Mundo-Invertido\meu-mundo-invertido\mundo-invertido.gif">
+    <img width="650" src="https://github.com/PrimYA/MundoInvertido_Dev-week/blob/main/mundo-invertido.gif">
 </p>
 
 ## 💻 Tecnologias
