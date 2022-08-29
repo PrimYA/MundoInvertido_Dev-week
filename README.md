@@ -8,6 +8,10 @@ __________
 
 Foi criada uma página com theme switcher utilizando HTML, CSS e JavaScript, além de integrar um formulário de inscrição com um banco de dados Firebase.
 
+<p align="center">
+    <img width="650" src="C:\Users\mi-sb\Documents\LiveCoding\Mundo-Invertido\meu-mundo-invertido\mundo-invertido.gif">
+</p>
+
 ## 💻 Tecnologias
 
 \- HTML
